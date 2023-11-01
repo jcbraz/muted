@@ -16,7 +16,7 @@ IG_USERNAME='your_username'
 IG_PASSWORD='your_password'
 ```
 4. Modify the `notToMute` array in `muted.ts` in order to add users you don't want to mute (optional)
-5. Compile the TypeScript code with `tsc muted.ts`
-6. Run the script with `node muted.js`
+5. Compile the TypeScript code with `tsc src/muted.ts`
+6. Run the script with `node src/muted.js`
 7. Get some coffee. It might take a while.
 8. Enjoy your muted feed!
